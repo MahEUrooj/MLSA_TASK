@@ -28625,8 +28625,8 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _mahEUroojNFAlEVlhvkUnsplashJpg = require("../images/mah-e-urooj-NFAlE_Vlhvk-unsplash.jpg");
-var _mahEUroojNFAlEVlhvkUnsplashJpgDefault = parcelHelpers.interopDefault(_mahEUroojNFAlEVlhvkUnsplashJpg);
+ */ var _myPicJpeg = require("../images/my_pic.jpeg");
+var _myPicJpegDefault = parcelHelpers.interopDefault(_myPicJpeg);
 const imageAltText = "MAH E UROOJ - A Government School Teacher. This is my pic.";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
@@ -28635,7 +28635,7 @@ const Home = ({ name , title  })=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _mahEUroojNFAlEVlhvkUnsplashJpgDefault.default),
+                src: (0, _myPicJpegDefault.default),
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
@@ -28718,11 +28718,11 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/down-arrow.svg":"b5nCi","../images/mah-e-urooj-NFAlE_Vlhvk-unsplash.jpg":"8OJbW"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/down-arrow.svg":"b5nCi","../images/my_pic.jpeg":"9Chvl"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"8OJbW":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "mah-e-urooj-NFAlE_Vlhvk-unsplash.93e66e0b.jpg" + "?" + Date.now();
+},{"./helpers/bundle-url":"lgJ39"}],"9Chvl":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "my_pic.ceb6bd3c.jpeg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lCaEt":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$ed0d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
