@@ -6,7 +6,7 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/socials";
+import arrowSvg from "../images/down-arrow.svg";
 import PropTypes from "prop-types";
 
 /**
