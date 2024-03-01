@@ -6,7 +6,7 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/mah-e-urooj-NFAlE_Vlhvk-unsplash.jpg";
+import arrowSvg from "../images/socials";
 import PropTypes from "prop-types";
 
 /**
@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/socials/mah-e-urooj-NFAlE_Vlhvk-unsplash.jpg";
 
 const imageAltText = "MAH E UROOJ - A Government School Teacher. This is my pic.";
 
