@@ -6,7 +6,7 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/down-arrow.svg";
+import arrowSvg from "../images/mah-e-urooj-NFAlE_Vlhvk-unsplash.jpg";
 import PropTypes from "prop-types";
 
 /**
@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/woman-with-tablet.jpg";
 
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+const imageAltText = "MAH E UROOJ - A Government School Teacher. This is my pic.";
 
 const Home = ({ name, title }) => {
   return (

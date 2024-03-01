@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Comp Table.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with books, laptop, and coffee cup";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My memory during a memorable visit to a famous software house located in Karachi.",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My Diary Excerpt.",
+    url: "https://youtube/rUMX2wrhOug",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Designing For Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web page design html program for Weather Monitoring System.",
+    url: "https://github.com/MahEUrooj/Weather-Monitoring-System",
   },
   {
-    title: "My Resume Site",
+    title: "My Internet Of Things Final Project at SirSyed University of Engineering and Technology through collaboration of NAVTCC- initiated by Kamyab Jawan Pakistan",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My work during six months course of Internet of Things.",
+    url: "https://www.youtube.com/watch?v=73pAGt2G_Os&t=23s",
   },
   {
     title: "GitHub Codespaces and github.dev",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A short clip of working with students of Akhter Government Girls Secondary School (AGGSS)",
+    url: "https://www.youtube.com/shorts/tG_lQZ-_530",
   },
 ];
 
