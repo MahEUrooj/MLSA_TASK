@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "MAH E UROOJ",
   title: "JUNIOR ELEMENTARY SCHOOL TEACHER",
-  email: "MAHE.UROOJ@STUDENTAMBASSADORS.COM",
+  email: "mahe.urooj@studentambassadors.com",
   gitHub: "https://github.com/MahEUrooj",
   instagram: "",
   linkedIn: "https://www.linkedin.com/in/maheurooj-15a4081ab",
