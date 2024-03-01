@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.io/MahEUrooj/MLSA_TASK",
+  "homepage": "https://maheurooj.github.io/MLSA_TASK/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://github.io/MahEUrooj/MLSA_TASK'",
+    "build-gh": "parcel build --public-url 'https://maheurooj.github.io/MLSA_TASK/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
