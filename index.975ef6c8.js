@@ -28777,7 +28777,7 @@ const imageAltText = "desktop with books, laptop, and coffee cup";
         url: "https://www.youtube.com/watch?v=73pAGt2G_Os&t=23s"
     },
     {
-        title: "GitHub Codespaces and github.dev",
+        title: "Teaching is a noble profession.",
         description: "A short clip of working with students of Akhter Government Girls Secondary School (AGGSS)",
         url: "https://www.youtube.com/shorts/tG_lQZ-_530"
     }, 
