@@ -27182,7 +27182,7 @@ var _color6AvifDefault = parcelHelpers.interopDefault(_color6Avif);
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I am a doing B.Ed in Information Communication Technology in education from Virtual University of Pakistan. I have done many Computer courses from IQ PASS, Aptech, ByteWise and Microsoft.";
+ */ const description = "I have done B.Com from University of Karachi. Afterwards, I did M.A. in English Literature from Federal Urdu University of Arts, Science and Technology. I have recently completed my B.Ed specialization in Information Communication Technology (ICT) in education from Virtual University of Pakistan online. I have a passion for learning Computer Digital Technology. I am grateful to Microsoft MLSA for selecting me as a Student Ambassador from Pakistan in 2023. It is a great privilege for me and my country. I cannot express my feelings.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28718,7 +28718,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/down-arrow.svg":"b5nCi","../images/my_pic.jpeg":"9Chvl"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/my_pic.jpeg":"9Chvl","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"9Chvl":[function(require,module,exports) {
