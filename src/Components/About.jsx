@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a doing B.Ed in Information Communication Technology in education from Virtual University of Pakistan. I have done many Computer courses from IQ PASS, Aptech, ByteWise and Microsoft.";
+  "I have done B.Com from University of Karachi. Afterwards, I did M.A. in English Literature from Federal Urdu University of Arts, Science and Technology. I have recently completed my B.Ed specialization in Information Communication Technology (ICT) in education from Virtual University of Pakistan online. I have a passion for learning Computer Digital Technology. I am grateful to Microsoft MLSA  for selecting me as Student Ambassador from Pakistan in 2023. It is a great privilege for me and I cannot express my feelings.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
