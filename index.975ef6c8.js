@@ -27092,9 +27092,9 @@ var _stylesCss = require("./styles.css");
     email: "mahe.urooj@studentambassadors.com",
     gitHub: "https://github.com/MahEUrooj",
     instagram: "",
-    linkedIn: "https://linkedin.com/in/maheurooj-15a4081ab",
-    twitter: "https://twitter.com/urooj_mah",
-    youTube: "https://youtube.com/channel/UC_G8hXu5fmse7WbJsx14ySA"
+    linkedIn: "https://www.linkedin.com/in/maheurooj-15a4081ab",
+    twitter: "https://www.twitter.com/urooj_mah",
+    youTube: "https://www.youtube.com/channel/UC_G8hXu5fmse7WbJsx14ySA"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
