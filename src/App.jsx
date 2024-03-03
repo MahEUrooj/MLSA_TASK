@@ -27,12 +27,12 @@ const siteProps = {
   name: "MAH E UROOJ",
   title: "JUNIOR ELEMENTARY SCHOOL TEACHER",
   email: "mahe.urooj@studentambassadors.com",
-  gitHub: "https://www.github.com/MahEUrooj",
+  gitHub: "www.github.com/MahEUrooj",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/maheurooj-15a4081ab",
+  linkedIn: "www.linkedin.com/in/maheurooj-15a4081ab",
   medium: "",
-  twitter: "https://www.twitter.com/urooj_mah",
-  youTube: "https://www.youtube.com/channel/UC_G8hXu5fmse7WbJsx14ySA",
+  twitter: "www.twitter.com/urooj_mah",
+  youTube: "www.youtube.com/channel/UC_G8hXu5fmse7WbJsx14ySA",
 };
 
 const primaryColor = "#4E567E";
