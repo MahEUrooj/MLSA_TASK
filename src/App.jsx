@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "",
   linkedIn: "maheurooj-15a4081ab",
   twitter: "MahEUrooj",
-  youTube: "_G8hXu5fmse7WbJsx14ySA",
+  youTube: "UC_G8hXu5fmse7WbJsx14ySA",
 };
 
 const primaryColor = "#4E567E";
