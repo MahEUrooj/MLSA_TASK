@@ -34,7 +34,7 @@ const projectList = [
     title: "My memory during a memorable visit to a famous software house located in Karachi.",
     description:
       "My Diary Excerpt.",
-    url: "https://youtube/rUMX2wrhOug",
+    url: "https://www.youtube.com/watch?v=rUMX2wrhOug",
   },
   {
     title: "Web Designing For Beginners",
