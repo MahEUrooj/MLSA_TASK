@@ -27094,7 +27094,7 @@ var _stylesCss = require("./styles.css");
     instagram: "",
     linkedIn: "maheurooj-15a4081ab",
     twitter: "MahEUrooj",
-    youTube: "UC_G8hXu5fmse7WbJsx14ySA"
+    youTube: "/channel/UC_G8hXu5fmse7WbJsx14ySA"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
