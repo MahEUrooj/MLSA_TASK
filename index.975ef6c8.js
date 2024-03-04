@@ -27090,7 +27090,7 @@ var _stylesCss = require("./styles.css");
     name: "MAH E UROOJ",
     title: "JUNIOR ELEMENTARY SCHOOL TEACHER",
     email: "mahe.urooj@studentambassadors.com",
-    gitHub: "https://github.com/MahEUrooj",
+    gitHub: "MahEUrooj",
     instagram: "",
     linkedIn: "https://www.linkedin.com/in/maheurooj-15a4081ab",
     twitter: "https://www.twitter.com/urooj_mah",
