@@ -29,9 +29,9 @@ const siteProps = {
   email: "mahe.urooj@studentambassadors.com",
   gitHub: "MahEUrooj",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/maheurooj-15a4081ab",
-  twitter: "https://www.twitter.com/urooj_mah",
-  youTube: "https://www.youtube.com/channel/UC_G8hXu5fmse7WbJsx14ySA",
+  linkedIn: "maheurooj-15a4081ab",
+  twitter: "urooj_mah",
+  youTube: "UC_G8hXu5fmse7WbJsx14ySA",
 };
 
 const primaryColor = "#4E567E";
