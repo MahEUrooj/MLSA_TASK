@@ -28770,7 +28770,7 @@ const imageAltText = "desktop with books, laptop, and coffee cup";
         url: "https://github.com/MahEUrooj/Weather-Monitoring-System"
     },
     {
-        title: "My Internet Of Things Final Project at SirSyed University of Engineering and Technology through collaboration of NAVTCC- initiated by Kamyab Jawan Pakistan",
+        title: "My Internet Of Things Final Project at Sir Syed University of Engineering and Technology through collaboration of NAVTCC- initiated by Kamyab Jawan Pakistan",
         description: "My work during six months course of Internet of Things.",
         url: "https://www.youtube.com/watch?v=73pAGt2G_Os&t=23s"
     },
