@@ -28760,8 +28760,8 @@ const imageAltText = "desktop with books, laptop, and coffee cup";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "My memory during a memorable visit to a famous software house located in Karachi.",
-        description: "My Diary Excerpt.",
+        title: "My Diary Excerpt.",
+        description: "My memory during a memorable visit to a famous software house located in Karachi.",
         url: "https://www.youtube.com/watch?v=rUMX2wrhOug"
     },
     {
