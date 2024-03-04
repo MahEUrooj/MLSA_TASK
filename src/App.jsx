@@ -28,10 +28,9 @@ const siteProps = {
   title: "JUNIOR ELEMENTARY SCHOOL TEACHER",
   email: "mahe.urooj@studentambassadors.com",
   gitHub: "MahEUrooj",
-  instagram: "majesticurooj38",
   linkedIn: "maheurooj-15a4081ab",
   twitter: "urooj_mah",
-  youTube: "@imaginativegenius",
+  youTube: "https:/www.youtube.com/@imaginativegenius",
 };
 
 const primaryColor = "#4E567E";
