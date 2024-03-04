@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "",
   linkedIn: "maheurooj-15a4081ab",
   twitter: "urooj_mah",
-  youtube: "@imaginativegenius",
+  youTube: "KNOWLEDGE WAVE! 🎓@imaginativegenius",
 };
 
 const primaryColor = "#4E567E";
