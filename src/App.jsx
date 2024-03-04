@@ -30,7 +30,7 @@ const siteProps = {
   gitHub: "MahEUrooj",
   linkedIn: "maheurooj-15a4081ab",
   twitter: "urooj_mah",
-  youTube: "https:/www.youtube.com/@imaginativegenius",
+  youTube: "https://www.youtube.com/channel/@imaginativegenius",
 };
 
 const primaryColor = "#4E567E";
