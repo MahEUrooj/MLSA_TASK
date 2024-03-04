@@ -31,9 +31,9 @@ const imageAltText = "desktop with books, laptop, and coffee cup";
  */
 const projectList = [
   {
-    title: "My memory during a memorable visit to a famous software house located in Karachi.",
+    title: "My Diary Excerpt.",
     description:
-      "My Diary Excerpt.",
+      "My memory during a memorable visit to a famous software house located in Karachi.",
     url: "https://www.youtube.com/watch?v=rUMX2wrhOug",
   },
   {
