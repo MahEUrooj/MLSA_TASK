@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "",
   linkedIn: "maheurooj-15a4081ab",
   twitter: "MahEUrooj",
-  youTube: "hannel/UC_G8hXu5fmse7WbJsx14ySA",
+  youTube: "KNOWLEDGE WAVE! 🎓",
 };
 
 const primaryColor = "#4E567E";
