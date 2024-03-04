@@ -27093,8 +27093,8 @@ var _stylesCss = require("./styles.css");
     gitHub: "MahEUrooj",
     instagram: "",
     linkedIn: "maheurooj-15a4081ab",
-    twitter: "urooj_mah",
-    youtube: "@imaginativegenius"
+    twitter: "MahEUrooj",
+    youTube: "KNOWLEDGE WAVE! \uD83C\uDF93@imaginativegenius"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
